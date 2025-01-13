@@ -4,7 +4,8 @@
 
 ## Technologies Used
 #### JavaScript
-#### React
+#### Material UI
+#### React 16.13
 #### Node.js
 #### HTML/CSS
 #### Express.js
